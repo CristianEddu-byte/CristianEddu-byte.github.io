@@ -1,17 +1,2 @@
-* {
- margin: 0;
- padding: 0;
- box-sizing: border-box;
-}
+@import "{{site.theme}}";
 
-
-
-header {
- width: 100%;
- height: auto;
-}
-
-footer {
- width: 100%;
- height: auto;
-}
