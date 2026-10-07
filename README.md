@@ -7,5 +7,13 @@
 
 ##  Sobre cristianeddu-byte.github.io
 
-Sitio web responsive 
+Un sitio web responsive diseñado como portafolio profesional y currículum visual técnico. Este espacio tiene como objetivo dar a conocer mi trayectoria como desarrollador web, compartiendo tanto proyectos personales como plantillas (templates) sencillas construidas bajo buenas prácticas de código.
+
+** Algunas tecnologias usadas **:
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ 
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   
