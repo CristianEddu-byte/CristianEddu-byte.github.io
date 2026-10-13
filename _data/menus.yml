@@ -1,13 +1,13 @@
 header:
-- title: About
+- title: Sobre mi
   url: /#about
-- title: Services
+- title: Servicios
   url: /#services
-- title: Members
+- title: Stack
   url: /#members
-- title: History
+- title: Historia
   url: /#timeline
-- title: Contacts
+- title: Contacto
   url: /#contacts
-- title: Links
+- title: Plantillas
   url: /links
