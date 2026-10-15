@@ -29,7 +29,35 @@ hr.divider {
 /*Section Page*/
 .bg-primary {
     --bs-bg-opacity: 1;
-    background-color: rgb(2 71 169) !important;
+    background-color: #f4623a !important;
+}
+
+.dark {
+    background-color: #000000;
+}
+
+.bg-dark {
+    background: linear-gradient(180deg, #0d1a7a, #000000);
+}
+
+.bg-info {
+ background: linear-gradient(180deg, #000000, #0d1a7a);
+}
+
+/*Imagenes section portfolio*/
+.img-fluid {
+    width: 510px;
+    height: 350px;
+}
+
+/* section members */
+.member-box img{
+    width: 180px;
+    height: 180px;
+}
+
+.mb-2 {
+    padding-top: 10px;
 }
 
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/

@@ -50,30 +50,30 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
+      - title: Proyecto 1
         text: This is a very short project description.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
+      - title: Proyecto 2
         text: This is a very short project description.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
+      - title: Proyecto 3
         text: This is a very short project description.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
+      - title: Proyecto 4
         text: This is a very short project description.
         icon: 4.jpg
         url: '#'
-      - title: Project 5
+      - title: Proyecto 5
         text: This is a very short project description.
         icon: 5.jpg
         url: '#'
-      - title: Project 6
+      - title: Proyecto 6
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
@@ -83,37 +83,37 @@ sections:
     title: Mis Proyectos
     actions:
       - title: Repositorio - GitHub
-        url: https://startbootstrap.com/themes/creative/
+        url: https://github.com/CristianEddu-byte/CristianEddu-byte.github.io.git
         class: btn-light
 
   - type: members.html
-    section_id: members
-    title: Our Crew!
+    section_id: member
+    title: Tecnologías aplicadas
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: JavaScript
+        text: Lenguaje de programación POO
+        image: assets/img/technologies/javascript.jpg
+       
+      - title: HTML5
+        text: Lenguaje de hipertexto para estructurar sitios web
+        image: assets/img/technologies/html.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: CSS3
+        text: Lenguaje de diseño grafico
+        image: assets/img/technologies/css.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Node js
+        text: Entorno de ejecucion de lado del servidor
+        image: assets/img/technologies/node.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
+      - title: Git
+        text: Sistema de control de versiones 
+        image: assets/img/technologies/git.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
+      - title: PostgreSQL
+        text: Sistema de gestion de base de datos
+        image: assets/img/technologies/postgre.jpg
         url: '#'
 
   - type: timeline.html
