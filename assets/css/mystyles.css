@@ -81,6 +81,15 @@ ul.timeline::before {
     background-color: #f4623a;
 }
 
+/* section footer */
+.bg-light {
+    background-color: #212529 !important;
+}
+
+.footer-text {
+   color: #ffffff !important;
+}
+
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/
 @media (max-width: 360px)  {
  .align-self-baseline {

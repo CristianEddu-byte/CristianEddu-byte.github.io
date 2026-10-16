@@ -129,46 +129,67 @@ sections:
           **Empiezo la preparatoria**
         text: >-
           En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
-          empiezo a considerar los ámbitos profesionales [mas texto]
+          empiezo a considerar las carreras profesionales.
       - image: assets/img/timeline/youtube.jpg
         title: |
-          2020
+          2019
 
           **Hago un curso en html y css por hobbit**
         text: >-
           Durante mis vacaciones de la preparatoria me encuentro con un espacio libre
-          y en un video veo que puedo aprender a desarrollar sitios web por ello, como curiosidad
+          y en un video de YouTube veo que puedo aprender a desarrollar sitios web, por ello como curiosidad
           checo un tutorial de html y css, entonces me interesa y profundizo en ello.
       - image: assets/img/timeline/graduacion.jpg
         title: |
-          2021
+          2020
 
           **Me graduo de la preparatoria**
         text: >-
-          En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
-          empiezo a considerar los ámbitos profesionales [mas texto]
-      - image: assets/img/portfolio/thumbnails/4.jpg
+          Me graduo del nivel medio superior y fijo mi objetivo en la educación superior.
+      - image: assets/img/timeline/universidad.jpg
         title: |
-          2017-2020
+          2021
 
-          **Empiezo la preparatoria**
+          **Comienzo a estudiar la universidad**
         text: >-
-          En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
-          empiezo a considerar los ámbitos profesionales [mas texto]
+          Empiezo mi carrera de ingenieria en Tecnologías de la Información y Sistemas.
+      - image: assets/img/timeline/congreso.jpg
+        title: |
+          2024
+
+          **Participo en el congreso de la UMAN**
+        text: >-
+          Presento mi proyecto "Catálogo de pila abierta", un sitio web como apoyo de la 
+          biblioteca fisica de la Universidad Mexico Americana del Norte (Uman) en el IX 
+          congreso internacional de ciencia, tecnología e innovación.
+      - image: assets/img/timeline/carrera.jpg
+        title: |
+          2024
+
+          **Termino la universidad**
+        text: >-
+          Concluyen mis estudios universitarios y con ello empieza otras aspiraciones personales...
+      - image: assets/img/timeline/xeliger.jpg
+        title: |
+          2025 - Actualidad
+
+          **Creo el proyecto 'Xeliger'**
+        text: >-
+          Comienzo mi proyecto personal como parte de mi crecimiento profesional y laboral
   - type: contact.html
     section_id: contacts
     title: Contáctame!!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Algunos medios en los que puedes contactarme o seguirme son los siguientes, además podrás 
+      conocerme mejor como persona
     actions:
-    - title: +1 (202) 555-014
+    - title: +52 (899) 172-095
       icon: bi-telephone-fill
-    - title: E-Mail
+    - title: Correo electrónico
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
+      url: mailto:dcristianeduardo4@gmail.com
+    - title: Instagram
+      icon: bi-instagram
       url: '#'
     - title: Facebook
       icon: bi-facebook
