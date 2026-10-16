@@ -25,6 +25,10 @@ hr.divider {
   --bs-btn-disabled-bg: #1030e3;
   --bs-btn-disabled-border-color: #1030e3;
 } */
+/* Section about */
+.text-white-50 p {
+color: #ffffff;
+}
 
 /*Section Page*/
 .bg-primary {
@@ -58,6 +62,23 @@ hr.divider {
 
 .mb-2 {
     padding-top: 10px;
+}
+
+/* section timeline */
+.timeline-style h2{
+    color: #ffffff;
+}
+
+.timeline-style .timeline-panel {
+    color: rgb(219 212 211) !important;
+}
+
+.timeline-heading{
+    color: #f4623a;
+}
+
+ul.timeline::before {
+    background-color: #f4623a;
 }
 
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/

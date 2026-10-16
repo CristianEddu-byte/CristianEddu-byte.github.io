@@ -51,30 +51,30 @@ sections:
     #background_style: bg-dark
     projects:
       - title: Proyecto 1
-        text: This is a very short project description.
+        text: Este es el primer proyecto
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
       - title: Proyecto 2
-        text: This is a very short project description.
+        text: Este es el segundo proyecto
         icon: 2.jpg
         url: '#'
       - title: Proyecto 3
-        text: This is a very short project description.
+        text: Este es el tercer proyecto
         icon: 3.jpg
         url: '#'
       - title: Proyecto 4
-        text: This is a very short project description.
+        text: Este es el cuarto proyecto
         icon: 4.jpg
         url: '#'
       - title: Proyecto 5
-        text: This is a very short project description.
+        text: Este es el quinto proyecto
         icon: 5.jpg
         url: '#'
       - title: Proyecto 6
-        text: This is a very short project description.
+        text: Este es el sexto proyecto
         icon: 6.jpg
         url: '#'
 
@@ -118,25 +118,43 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: MI HISTORIA
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+      - image: assets/img/timeline/prepa.jpg
+        title: |
+          2017
 
+          **Empiezo la preparatoria**
+        text: >-
+          En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
+          empiezo a considerar los ámbitos profesionales [mas texto]
+      - image: assets/img/timeline/youtube.jpg
+        title: |
+          2020
+
+          **Hago un curso en html y css por hobbit**
+        text: >-
+          Durante mis vacaciones de la preparatoria me encuentro con un espacio libre
+          y en un video veo que puedo aprender a desarrollar sitios web por ello, como curiosidad
+          checo un tutorial de html y css, entonces me interesa y profundizo en ello.
+      - image: assets/img/timeline/graduacion.jpg
+        title: |
+          2021
+
+          **Me graduo de la preparatoria**
+        text: >-
+          En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
+          empiezo a considerar los ámbitos profesionales [mas texto]
+      - image: assets/img/portfolio/thumbnails/4.jpg
+        title: |
+          2017-2020
+
+          **Empiezo la preparatoria**
+        text: >-
+          En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
+          empiezo a considerar los ámbitos profesionales [mas texto]
   - type: contact.html
     section_id: contacts
     title: Contáctame!!
