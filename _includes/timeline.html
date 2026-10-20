@@ -9,7 +9,7 @@
           {% for action in section.actions %}
           <li class="{% cycle 'timeline-normal', 'timeline-inverted' %}">
             <div>
-            <img class="img-circle img-responsive timeline-image" src="{{ action.imagen }}" alt="">
+            <img class="img-circle img-responsive timeline-image" src="{{ action.imagen }}" alt="" loading="lazy">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
