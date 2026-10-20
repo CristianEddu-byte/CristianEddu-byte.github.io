@@ -55,27 +55,27 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792506983/1.jpg
         url: '#'
       - title: Proyecto 2
         text: Este es el segundo proyecto
-        icon: 2.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792507000/2.jpg
         url: '#'
       - title: Proyecto 3
         text: Este es el tercer proyecto
-        icon: 3.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792507008/3.jpg
         url: '#'
       - title: Proyecto 4
         text: Este es el cuarto proyecto
-        icon: 4.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792506980/4.jpg
         url: '#'
       - title: Proyecto 5
         text: Este es el quinto proyecto
-        icon: 5.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792506980/5.jpg
         url: '#'
       - title: Proyecto 6
         text: Este es el sexto proyecto
-        icon: 6.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792507012/6.jpg
         url: '#'
 
   - type: aside.html
@@ -93,27 +93,27 @@ sections:
     members:
       - title: JavaScript
         text: Lenguaje de programación POO
-        image: assets/img/technologies/javascript.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507779/javascript.png
        
       - title: HTML5
         text: Lenguaje de hipertexto para estructurar sitios web
-        image: assets/img/technologies/html.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507778/html.jpg
         url: '#'
       - title: CSS3
         text: Lenguaje de diseño grafico
-        image: assets/img/technologies/css.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507784/css.jpg
         url: '#'
       - title: Node js
         text: Entorno de ejecucion de lado del servidor
-        image: assets/img/technologies/node.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507781/node.jpg
         url: '#'
       - title: Git
         text: Sistema de control de versiones 
-        image: assets/img/technologies/git.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507785/git.jpg
         url: '#'
       - title: PostgreSQL
         text: Sistema de gestion de base de datos
-        image: assets/img/technologies/postgre.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507783/postgre.jpg
         url: '#'
 
   - type: timeline.html
@@ -122,7 +122,7 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/timeline/prepa.jpg
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472487/prepa.jpg
         title: |
           2017
 
@@ -130,7 +130,7 @@ sections:
         text: >-
           En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
           empiezo a considerar las carreras profesionales.
-      - image: assets/img/timeline/youtube.jpg
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472486/youtube.jpg
         title: |
           2019
 
@@ -139,21 +139,21 @@ sections:
           Durante mis vacaciones de la preparatoria me encuentro con un espacio libre
           y en un video de YouTube veo que puedo aprender a desarrollar sitios web, por ello como curiosidad
           checo un tutorial de html y css, entonces me interesa y profundizo en ello.
-      - image: assets/img/timeline/graduacion.jpg
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472495/graduacion.jpg
         title: |
           2020
 
           **Me graduo de la preparatoria**
         text: >-
           Me graduo del nivel medio superior y fijo mi objetivo en la educación superior.
-      - image: assets/img/timeline/universidad.jpg
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472489/universidad.jpg
         title: |
           2021
 
           **Comienzo a estudiar la universidad**
         text: >-
           Empiezo mi carrera de ingenieria en Tecnologías de la Información y Sistemas.
-      - image: assets/img/timeline/congreso.jpg
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472484/congreso.jpg
         title: |
           2024
 
@@ -162,14 +162,14 @@ sections:
           Presento mi proyecto "Catálogo de pila abierta", un sitio web como apoyo de la 
           biblioteca fisica de la Universidad Mexico Americana del Norte (Uman) en el IX 
           congreso internacional de ciencia, tecnología e innovación.
-      - image: assets/img/timeline/carrera.jpg
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472486/carrera.jpg
         title: |
           2024
 
           **Termino la universidad**
         text: >-
           Concluyen mis estudios universitarios y con ello empieza otras aspiraciones personales...
-      - image: assets/img/timeline/xeliger.jpg
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472486/xeliger.jpg
         title: |
           2025 - Actualidad
 

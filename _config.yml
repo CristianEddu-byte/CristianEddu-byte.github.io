@@ -16,6 +16,10 @@ url: https://cristianeddu-byte.github.io
 twitter_username: jekyllrb
 github_username:  jekyll
 
+cloudinary: 
+ cloud_name: i80erfoo
+ base_url: https://res.cloudinary.com/i80erfoo/image/upload 
+
 # Build settings
 remote_theme: vvalchev/creative-theme-jekyll-new
 plugins:
