@@ -50,32 +50,32 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Proyecto 1
+        text: Este es el primer proyecto
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792506983/1.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
+      - title: Proyecto 2
+        text: Este es el segundo proyecto
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792507000/2.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
+      - title: Proyecto 3
+        text: Este es el tercer proyecto
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792507008/3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
+      - title: Proyecto 4
+        text: Este es el cuarto proyecto
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792506980/4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
+      - title: Proyecto 5
+        text: Este es el quinto proyecto
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792506980/5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
+      - title: Proyecto 6
+        text: Este es el sexto proyecto
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_950,h_750,f_auto,q_auto/v1792507012/6.jpg
         url: '#'
 
   - type: aside.html
@@ -83,74 +83,113 @@ sections:
     title: Mis Proyectos
     actions:
       - title: Repositorio - GitHub
-        url: https://startbootstrap.com/themes/creative/
+        url: https://github.com/CristianEddu-byte/CristianEddu-byte.github.io.git
         class: btn-light
 
   - type: members.html
-    section_id: members
-    title: Our Crew!
+    section_id: member
+    title: Tecnologías aplicadas
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: JavaScript
+        text: Lenguaje de programación POO
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507779/javascript.png
+       
+      - title: HTML5
+        text: Lenguaje de hipertexto para estructurar sitios web
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507778/html.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: CSS3
+        text: Lenguaje de diseño grafico
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507784/css.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Node js
+        text: Entorno de ejecucion de lado del servidor
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507781/node.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
+      - title: Git
+        text: Sistema de control de versiones 
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507785/git.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
+      - title: PostgreSQL
+        text: Sistema de gestion de base de datos
+        imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792507783/postgre.jpg
         url: '#'
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: MI HISTORIA
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472487/prepa.jpg
+        title: |
+          2017
 
+          **Empiezo la preparatoria**
+        text: >-
+          En esta parte comienzo mis estudios en la preparatoria y a partir de ello 
+          empiezo a considerar las carreras profesionales.
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472486/youtube.jpg
+        title: |
+          2019
+
+          **Hago un curso en html y css por hobbit**
+        text: >-
+          Durante mis vacaciones de la preparatoria me encuentro con un espacio libre
+          y en un video de YouTube veo que puedo aprender a desarrollar sitios web, por ello como curiosidad
+          checo un tutorial de html y css, entonces me interesa y profundizo en ello.
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472495/graduacion.jpg
+        title: |
+          2020
+
+          **Me graduo de la preparatoria**
+        text: >-
+          Me graduo del nivel medio superior y fijo mi objetivo en la educación superior.
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472489/universidad.jpg
+        title: |
+          2021
+
+          **Comienzo a estudiar la universidad**
+        text: >-
+          Empiezo mi carrera de ingenieria en Tecnologías de la Información y Sistemas.
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472484/congreso.jpg
+        title: |
+          2024
+
+          **Participo en el congreso de la UMAN**
+        text: >-
+          Presento mi proyecto "Catálogo de pila abierta", un sitio web como apoyo de la 
+          biblioteca fisica de la Universidad Mexico Americana del Norte (Uman) en el IX 
+          congreso internacional de ciencia, tecnología e innovación.
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472486/carrera.jpg
+        title: |
+          2024
+
+          **Termino la universidad**
+        text: >-
+          Concluyen mis estudios universitarios y con ello empieza otras aspiraciones personales...
+      - imagen: https://res.cloudinary.com/i80erfoo/image/upload/w_300,h_200,f_auto,q_auto/v1792472486/xeliger.jpg
+        title: |
+          2025 - Actualidad
+
+          **Creo el proyecto 'Xeliger'**
+        text: >-
+          Comienzo mi proyecto personal como parte de mi crecimiento profesional y laboral
   - type: contact.html
     section_id: contacts
     title: Contáctame!!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Algunos medios en los que puedes contactarme o seguirme son los siguientes, además podrás 
+      conocerme mejor como persona
     actions:
-    - title: +1 (202) 555-014
+    - title: +52 (899) 172-095
       icon: bi-telephone-fill
-    - title: E-Mail
+    - title: Correo electrónico
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
+      url: mailto:dcristianeduardo4@gmail.com
+    - title: Instagram
+      icon: bi-instagram
       url: '#'
     - title: Facebook
       icon: bi-facebook
