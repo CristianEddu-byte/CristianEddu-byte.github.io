@@ -183,16 +183,17 @@ sections:
       Algunos medios en los que puedes contactarme o seguirme son los siguientes, además podrás 
       conocerme mejor como persona
     actions:
-    - title: +52 (899) 172-095
-      icon: bi-telephone-fill
+    - title: Whatsapp
+      icon: bi-whatsapp
+      url: 'https://wa.me/+528994172095'
     - title: Correo electrónico
       icon: bi-envelope-fill
       url: mailto:dcristianeduardo4@gmail.com
     - title: Instagram
       icon: bi-instagram
-      url: '#'
+      url: 'https://instagram.com/cristian.delangel.564'
     - title: Facebook
       icon: bi-facebook
-      url: '#'
+      url: 'https://facebook.com/cristian.delangel.564'
 
 ---
