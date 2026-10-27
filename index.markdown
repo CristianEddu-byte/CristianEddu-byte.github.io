@@ -18,7 +18,7 @@ sections:
     text: Hola!, mi nombre es Cristian Eduardo y soy Ingeniero en Tecnologias de la información y sistemas (tic´s), el siguiente botón te llevará a mi autobiografia para que sepas mas de mi...
     actions:
       - title: Sobre mi
-        url: '#page-top'
+        url: 'about-me'
         class: btn-light
 
   - type: services.html
