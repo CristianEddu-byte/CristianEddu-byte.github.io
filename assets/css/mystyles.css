@@ -1,5 +1,5 @@
 
-/*masthead*/
+/* MASTHEAD */
 .align-self-end {
     width: 700px;
 }
@@ -33,12 +33,13 @@ header.masthead {
   --bs-btn-disabled-bg: #1030e3;
   --bs-btn-disabled-border-color: #1030e3;
 } */
-/* Section about */
+
+/* SECTION ABOUT */
 .text-white-50 p {
 color: #ffffff;
 }
 
-/*Section Page*/
+/* SECTION PAGE */
 .bg-primary {
     --bs-bg-opacity: 1;
     background-color: #f4623a !important;
@@ -56,13 +57,7 @@ color: #ffffff;
  background: linear-gradient(180deg, #000000, #0d1a7a);
 }
 
-/*Imagenes section portfolio*/
-/* .img-fluid {
-    width: 510px;
-    height: 350px;
-} */
-
-/* section members */
+/* SECTION MEMBERS */
 .technology {
     view-timeline-name: --reveal;
     animation-name: show;
@@ -81,7 +76,7 @@ color: #ffffff;
     padding-top: 10px;
 }
 
-/* section timeline */
+/* SECTION TIMELINE */
 
 @keyframes show {
     from {
@@ -118,7 +113,7 @@ ul.timeline::before {
     background-color: #f4623a;
 }
 
-/* section footer */
+/* SECTION FOOTER */
 .bg-light {
     background-color: #212529 !important;
 }
@@ -127,17 +122,30 @@ ul.timeline::before {
    color: #ffffff !important;
 }
 
-/* pagina about me */
+/* SECTION ABOUT ME */
 .bg-about {
  background-color: #0B1220;
+ padding-top: 5rem;
 }
 
 .container-about {
     width: 100%;
-    height: 1500px;
-    display: grid;
-    
+    height: 100vh;
+    display: flex;
 }
+
+.left-about {
+    width: 50%;
+    height: 90vh;
+    /* background-color: white; */  /* Color para mostrar area de div */
+}
+
+.right-about{
+  width: 50%;
+  height: 90vh;
+  /* background-color: red; */
+}
+
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/
 @media (max-width: 360px)  {
  .align-self-baseline {
