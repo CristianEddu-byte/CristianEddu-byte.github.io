@@ -176,7 +176,8 @@ ul.timeline::before {
 
 .right-about .four a {
     color: greenyellow;
-    text-decoration: none;
+    text-underline-offset: 4px;
+    text-decoration-style: dotted;
 }
 
 .right-about .bi-arrow-right-circle-fill {
@@ -185,6 +186,28 @@ ul.timeline::before {
     color: greenyellow;
     padding-left: 7px;
 }
+
+.left-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-about .box-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 480px;
+    height: 530px;
+    
+}
+
+.box-image .image-me {
+    width: 450px;
+    height: 500px;
+    border-radius: 10px;
+}
+
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/
 @media (max-width: 360px)  {
  .align-self-baseline {

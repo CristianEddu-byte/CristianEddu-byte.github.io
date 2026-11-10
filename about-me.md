@@ -11,6 +11,7 @@ header:
         A continuación sabrás un poco mas de mi y mi decisión de estudiar
         este mundo así como mis aspiraciones y logros...
        h4: Comencemos
+       imagen: https://res.cloudinary.com/i80erfoo/image/upload/v1794283401/yo.jpg 
 
 
 
