@@ -137,7 +137,6 @@ ul.timeline::before {
 .left-about {
     width: 45%;
     height: 90vh;
-    /* background-color: white; */  /* Color para mostrar area de div */
 }
 
 .right-about{
@@ -147,7 +146,6 @@ ul.timeline::before {
   height: 90vh;
   color: #fff;
   padding-top: 80px;
-  /* background-color: red; */
 }
 
 .right-about .first {
@@ -170,10 +168,23 @@ ul.timeline::before {
     width: 70%;
 }
 
-.right-about .third::before {
+.right-about .four {
+    margin-top: 20px;
+    width: 70%;
     
 }
 
+.right-about .four a {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+.right-about .bi-arrow-right-circle-fill {
+    position: relative;
+    top: 2px;
+    color: greenyellow;
+    padding-left: 7px;
+}
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/
 @media (max-width: 360px)  {
  .align-self-baseline {
