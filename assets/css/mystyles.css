@@ -177,22 +177,20 @@ ul.timeline::before {
 }
 
 .right-about .four {
-    margin-top: 20px;
+    margin-top: 50px;
     width: 70%;
-    
 }
 
 .right-about .four a {
-    color: greenyellow;
-    text-underline-offset: 4px;
-    text-decoration-style: dotted;
-}
-
-.right-about .bi-arrow-right-circle-fill {
-    position: relative;
-    top: 2px;
-    color: greenyellow;
-    padding-left: 7px;
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+    background-color: #F4623A;
+    text-decoration: none;
+    color: white;
 }
 
 .left-about {
