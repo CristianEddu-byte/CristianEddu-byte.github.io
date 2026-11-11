@@ -153,6 +153,12 @@ ul.timeline::before {
   font-weight: bold;
   font-size: 40px;
   width: 70%;
+  font-display: swap;
+  line-height: 1.15;
+}
+
+.right-about .first i {
+  text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.7);
 }
 
 .right-about .second {
@@ -160,6 +166,8 @@ ul.timeline::before {
     font-size: 1.2rem;
     margin-top: 20px;
     width: 70%;
+    font-display: swap;
+    line-height: 1.6;
 }
 
 .right-about .third {
@@ -205,7 +213,10 @@ ul.timeline::before {
 .box-image .image-me {
     width: 450px;
     height: 500px;
-    border-radius: 10px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    object-fit: cover;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
 }
 
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/
