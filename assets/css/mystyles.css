@@ -193,6 +193,10 @@ ul.timeline::before {
     color: white;
 }
 
+.right-about .four a:hover {
+    background-color: #c34e2e;
+}
+
 .left-about {
     display: flex;
     justify-content: center;
