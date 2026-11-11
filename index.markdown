@@ -3,8 +3,8 @@ layout: home
 header:
   title: MI PORTAFOLIO CRISTIAN DEL ANGEL
   text: >
-    Proyectos personales e información sobre mi, aqui podras visualizar y conocer
-    mi trayecto como desarrollador web y en general como ing. en Tic´s 
+    Proyectos personales e información sobre mi, aquí podras visualizar y conocer
+    mi trayecto como desarrollador web y en general como ing. en TICS
   action: # action button is optional
     label: SABER MÁS...
     url: '#about'
@@ -15,9 +15,9 @@ sections:
     section_id: about
     background_style: bg-primary
     title: ¿Quien soy y cual es mi formación?
-    text: Hola!, mi nombre es Cristian Eduardo y soy Ingeniero en Tecnologias de la información y sistemas (tic´s), el siguiente botón te llevará a mi autobiografia para que sepas mas de mi...
+    text: Hola!, mi nombre es Cristian Eduardo y soy Ingeniero en Tecnologias de la información y sistemas (tics), el siguiente botón te llevará a mi autobiografia para que sepas mas de mi...
     actions:
-      - title: Sobre mi
+      - title: Sobre mí
         url: 'about-me'
         class: btn-light
 
