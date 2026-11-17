@@ -17,6 +17,7 @@ header:
 sections: 
  - type: autobiografia.html
    section_id: biografia
+   section_class: biografia
    background_style: bg-about
    title: AUTOBIOGRAFIA
    text: >
