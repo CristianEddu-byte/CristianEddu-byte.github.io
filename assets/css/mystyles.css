@@ -27,7 +27,7 @@
   --bs-gray-900: #212529;
   /*COLORES ESTADO E INTENCION (SEMANTICA DEL SITIO)*/
   --bs-primary: #f4623a;
-  --bs-secondary: #6c757d;
+  --bs-secondary: #0B1220;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -183,7 +183,7 @@ ul.timeline::before {
 
 /* SECTION ABOUT ME */
 .bg-about {
- background-color: #0B1220;
+ background-color: var(--bs-secondary);
  padding-top: 5rem;
 }
 
@@ -279,6 +279,8 @@ ul.timeline::before {
     object-fit: cover;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
 }
+
+
 
 /*STYLES MOBILE STANDAR - SAMSUNG GALAXY A34*/
 @media (max-width: 360px)  {

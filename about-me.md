@@ -14,6 +14,25 @@ header:
        h4: Comencemos
        imagen: https://res.cloudinary.com/i80erfoo/image/upload/v1794283401/yo.jpg 
 
+sections: 
+ - type: autobiografia.html
+   section_id: biografia
+   background_style: bg-about
+   title: AUTOBIOGRAFIA
+   text: >
+    Nací en Reynosa, Tamaulipas, el 03 de febrero del 2002. Actualmente tengo 25 años, mi
+    nombre completo es Cristian Eduardo Del Angel Gutierrez. Tengo una carrera en Ing. en
+    Tecnologias de la información y Comunicaciones, este año del 2027 tengo como meta seguir
+    formandome profesionalmente pues el inglés es mi próximo atributo a sumar en mi conocimiento.
+    
+    La especialidad en la que he decidido profundizar de esta carrera es ser desarrollador web,
+    pues justo de ahi nacio mi interés por esta materia o ciencias de estudio. También me interesa
+    el soporte técnico y generalmente todo lo relacionado a la tecnología, por ello muestro mis
+    servicios de técnico en este sitio en la sección de "Servicios". El nombre que he puesto a mi
+    negocio ('Xeliger') ha sido inspiración justo de un proyecto personal musical. Sin embargo, 
+    quiero separar ambos mundos, 
+    
+   
 
 
 ---
